@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/collagen-infographic/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/collagen-infographic/static/js/main.590f5fc8.chunk.js",
+    "main.js.map": "/collagen-infographic/static/js/main.590f5fc8.chunk.js.map",
+    "runtime~main.js": "/collagen-infographic/static/js/runtime~main.14bfce0f.js",
+    "runtime~main.js.map": "/collagen-infographic/static/js/runtime~main.14bfce0f.js.map",
+    "static/js/2.f424be70.chunk.js": "/collagen-infographic/static/js/2.f424be70.chunk.js",
+    "static/js/2.f424be70.chunk.js.map": "/collagen-infographic/static/js/2.f424be70.chunk.js.map",
+    "static/js/3.41c607a9.chunk.js": "/collagen-infographic/static/js/3.41c607a9.chunk.js",
+    "static/js/3.41c607a9.chunk.js.map": "/collagen-infographic/static/js/3.41c607a9.chunk.js.map",
+    "index.html": "/collagen-infographic/index.html",
+    "precache-manifest.65e15cf65e88d9a706c321d49bc0dc5c.js": "/collagen-infographic/precache-manifest.65e15cf65e88d9a706c321d49bc0dc5c.js",
+    "service-worker.js": "/collagen-infographic/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/collagen-infographic/static/css/main.5ecd60fb.chunk.css.map"
+  }
+}
