@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/collagen-infographic/static/css/main.e6c13ad2.css",
-    "main.js": "/collagen-infographic/static/js/main.af961955.js",
+    "main.js": "/collagen-infographic/static/js/main.b105ab8c.js",
     "static/js/453.f6183428.chunk.js": "/collagen-infographic/static/js/453.f6183428.chunk.js",
     "index.html": "/collagen-infographic/index.html",
     "main.e6c13ad2.css.map": "/collagen-infographic/static/css/main.e6c13ad2.css.map",
-    "main.af961955.js.map": "/collagen-infographic/static/js/main.af961955.js.map",
+    "main.b105ab8c.js.map": "/collagen-infographic/static/js/main.b105ab8c.js.map",
     "453.f6183428.chunk.js.map": "/collagen-infographic/static/js/453.f6183428.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.af961955.js"
+    "static/js/main.b105ab8c.js"
   ]
 }
